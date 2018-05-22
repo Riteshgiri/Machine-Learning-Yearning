@@ -10,15 +10,15 @@ I have been writing a book, Machine Learning Yearning, to teach you how to struc
 
 >After reading Machine Learning Yearning, you will be able to:
 
-​Prioritize the most promising directions for an AI project
+>​Prioritize the most promising directions for an AI project
 
-​Diagnose errors in a machine learning system
+>​Diagnose errors in a machine learning system
 
-​Build ML in complex settings, such as mismatched training/test sets
+>​Build ML in complex settings, such as mismatched training/test sets
 
-​Set up an ML project to compare to and/or surpass human-level performance
+>​Set up an ML project to compare to and/or surpass human-level performance
 
-​Know when and how to apply end-to-end learning, transfer learning, and multi-task learning
+>​Know when and how to apply end-to-end learning, transfer learning, and multi-task learning
 
  
 >Historically, the only way to learn how to make these "strategy" decisions has been a multi-year apprenticeship in a graduate program or company. I am writing Machine Learning Yearning to help you quickly gain this skill so that you can become better at building AI systems. 
